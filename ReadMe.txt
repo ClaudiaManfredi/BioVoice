@@ -5,18 +5,18 @@ date: '22/05/20'
 ---
 
 ## BioVoice
-BioVoice is a user-friendly software platform designed to perform acoustical analyses of the human voice. BioVoice was developed at the Biomedical Engineering Lab, Universita’ degli Studi di Firenze. It allows recording the human voice of newborns, children, adults, and singing voice, performing both time and frequency analysis, estimating more than 20 acoustical parameters. The user has to follow a few mandatory steps to perform voice analysis. 
+BioVoice is a user-friendly software platform designed to perform acoustical analyses of the human voice. BioVoice was developed at the Biomedical Engineering Lab, UniversitÃ  degli Studi di Firenze. It allows recording the human voice of newborns, children, adults, and singing voice, performing both time and frequency analysis, estimating more than 20 acoustical parameters. The user has to follow a few mandatory steps to perform voice analysis. 
 
 ## Requirements and Running
-BioVoice is a software platform designed in MATLAB® and it requires MATLAB® Runtime R2017b.
-Here it executable beta version is available,  that does not require the installation of the MATLAB® software.
+BioVoice is a software platform designed in MATLABÂ® and it requires MATLABÂ® Runtime R2017b.
+Here it executable beta version is available,  that does not require the installation of the MATLABÂ® software.
 
-The computer must be equipped with at least an Intel® Core™i3 processor with a 64-bit card. Windows OS (from Windows 7 on) is required. It does not run under Mac OS. 
+The computer must be equipped with at least an IntelÂ® Coreâ„¢i3 processor with a 64-bit card. Windows OS (from Windows 7 on) is required. It does not run under Mac OS. 
 
 To run BioVoice, click on the green "clone or download" button on the top right side of the window. Save the `BioVoice-master.zip` file and unzip it. Launch `BioVoice.exe` and follow the instructions to install BioVoice explained in `BioVoice_Installing_Guide.pdf`.
 
 ## Distribution restrictions
-BioVoice is the exclusive property of Universita’ degli Studi di Firenze, and is distributed free of charge on this platform. Any unauthorized use or its marketing will be legally prosecuted.
+BioVoice is the exclusive property of UniversitÃ  degli Studi di Firenze, and is distributed free of charge on this platform. Any unauthorized use or its marketing will be legally prosecuted.
 
 ## References
 Please use the following references when you cite BioVoice:
@@ -33,7 +33,7 @@ Please use the following references when you cite BioVoice:
 3. Bandini, A., Giovannelli, F., Orlandi, S., Barbagallo, S. D., Cincotta, M., Vanni, P., ... & Manfredi, C. (2015). Automatic identification of dysprosody in idiopathic Parkinson's disease. Biomedical Signal Processing and Control, 17, 47-54. https://doi.org/10.1016/j.bspc.2014.07.006
 4. Manfredi, C., Bandini, A., Melino, D., Viellevoye, R., Kalenga, M., & Orlandi, S. (2018). Automated detection and classification of basic shapes of newborn cry melody. Biomedical Signal Processing and Control, 45, 174-181. [Link](https://doi.org/10.1016/j.bspc.2018.05.033)
 5. Orlandi, S., Bandini, A., Fiaschi, F. F., & Manfredi, C. (2017). Testing software tools for newborn cry analysis using synthetic signals. Biomedical Signal Processing and Control, 37, 16-22. https://doi.org/10.1016/j.bspc.2016.12.012
-6. Manfredi, C., Viellevoye, R., Orlandi, S., Torres-García, A., Pieraccini, G., & Reyes-García, C. A. (2019). Automated analysis of newborn cry: relationships between melodic shapes and native language. Biomedical Signal Processing and Control, 53, 101561. https://doi.org/10.1016/j.bspc.2019.101561
+6. Manfredi, C., Viellevoye, R., Orlandi, S., Torres-GarcÃ­a, A., Pieraccini, G., & Reyes-GarcÃ­a, C. A. (2019). Automated analysis of newborn cry: relationships between melodic shapes and native language. Biomedical Signal Processing and Control, 53, 101561. https://doi.org/10.1016/j.bspc.2019.101561
 7. Manfredi, C., Giordano, A., Schoentgen, J., Fraj, S., Bocchi, L., & Dejonckere, P. H. (2012). Perturbation measurements in highly irregular voice signals: Performances/validity of analysis software tools. Biomedical signal processing and control, 7(4), 409-416. https://doi.org/10.1016/j.bspc.2011.06.004
 8. Manfredi, C., Bocchi, L., Orlandi, S., Calisti, M., Spaccaterra, L., & Donzelli, G. P. (2008, August). Non-invasive distress evaluation in preterm newborn infants. In 2008 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (pp. 2908-2911). IEEE. (http://doi.org/10.1109/IEMBS.2008.4649811
 9. Manfredi, C., Barbagallo, D., Baracca, G., Orlandi, S., Bandini, A., & Dejonckere, P. H. (2015). Automatic assessment of acoustic parameters of the singing voice: application to professional western operatic and jazz singers. Journal of Voice, 29(4), 517-e1. https://doi.org/10.1016/j.jvoice.2014.09.014
