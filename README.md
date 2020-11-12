@@ -8,11 +8,9 @@ date: '22/05/20'
 BioVoice is a user-friendly software platform designed to perform acoustical analyses of the human voice. BioVoice was developed at the Biomedical Engineering Lab, Università degli Studi di Firenze. It allows recording the human voice of newborns, children, adults, and singing voice, performing both time and frequency analysis, estimating more than 20 acoustical parameters. The user has to follow a few mandatory steps to perform voice analysis. 
 
 ## Requirements and Running
-BioVoice is a software platform designed in MATLAB® and it requires MATLAB® Runtime R2017b.
-Here it executable beta version is available,  that does not require the installation of the MATLAB® software.
-
-The computer must be equipped with at least an Intel® Core™i3 processor with a 64-bit card. Windows OS (from Windows 7 on) is required. It does not run under Mac OS. 
-
+BioVoice is a software platform designed in MATLAB®. An executable beta version that does not require the installation of the MATLAB® software is available.
+It requires the installation of MATLAB® Runtime R2017b, which can be downloaded from: https://www.mathworks.com/products/compiler/matlab-runtime.html 
+The computer must be equipped with at least an Intel® Core™i3 processor running a 64-bit version of Windows OS (from Windows 7 on). It has not been tested on Mac OS or Linux.
 To run BioVoice, click on the green "clone or download" button on the top right side of the window. Save the `BioVoice-master.zip` file and unzip it. Launch `BioVoice.exe` and follow the instructions to install BioVoice. 
 
 ## Distribution restrictions
@@ -21,11 +19,13 @@ BioVoice is the exclusive property of Università degli Studi di Firenze, and is
 ## References
 Please use the following references when you cite BioVoice:
 
-1. Orlandi, S., Dejonckere, P. H., Schoentgen, J., Lebacq, J., Rruqja, N., & Manfredi, C. (2013). Effective pre-processing of long term noisy audio recordings: An aid to clinical monitoring. Biomedical Signal Processing and Control, 8(6), 799-810.[Link](https://doi.org/10.1016/j.bspc.2013.07.009)
+1. Morelli, M. S., Orlandi S., Manfredi C. (in press). BioVoice: a Multipurpose Tool for Voice Analysis, Biomedical Signal Processing and Control.
 
-2. Rruqja, N., Dejonckere, P. H., Cantarella, G., Schoentgen, J., Orlandi, S., Barbagallo, S. D., & Manfredi, C. (2014). Testing software tools with synthesized deviant voices for medicolegal assessment of occupational dysphonia. Biomedical Signal Processing and Control, 13, 71-78. [Link](https://doi.org/10.1016/j.bspc.2014.03.011)
+2. Morelli, M.S., Orlandi, S., Manfredi, C., BioVoice: a multipurpose tool for voice analysis, Proc. 11th Int. Workshop Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA 2019, December, 17-19, 2019, Firenze University Press, (2019) 261-264. [Link](https://flore.unifi.it/retrieve/handle/2158/1191438/475083/Morelli.pdf)
 
-3. Morelli, M.S., Orlandi, S., Manfredi, C., BioVoice: a multipurpose tool for voice analysis, Proc. 11th Int. Workshop Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA 2019, December, 17-19, 2019, Firenze University Press, (2019) 261-264. [Link](https://flore.unifi.it/retrieve/handle/2158/1191438/475083/Morelli.pdf)
+3. Rruqja, N., Dejonckere, P. H., Cantarella, G., Schoentgen, J., Orlandi, S., Barbagallo, S. D., & Manfredi, C. (2014). Testing software tools with synthesized deviant voices for medicolegal assessment of occupational dysphonia. Biomedical Signal Processing and Control, 13, 71-78. [Link](https://doi.org/10.1016/j.bspc.2014.03.011)
+
+4. Orlandi, S., Dejonckere, P. H., Schoentgen, J., Lebacq, J., Rruqja, N., & Manfredi, C. (2013). Effective pre-processing of long term noisy audio recordings: An aid to clinical monitoring. Biomedical Signal Processing and Control, 8(6), 799-810.[Link](https://doi.org/10.1016/j.bspc.2013.07.009)
 
 ## Related publications
 1. Manfredi, C., Bocchi, L., & Cantarella, G. (2009). A multipurpose user-friendly tool for voice analysis: application to pathological adult voices. Biomedical Signal Processing and Control, 4(3), 212-220. [Link](https://doi.org/10.1016/j.bspc.2008.11.006)
